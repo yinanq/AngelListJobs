@@ -11,6 +11,7 @@ import UIKit
 class TabDiscoverViewController: UIViewController, UITableViewDataSource, UITableViewDelegate {
     
     let test = "git change test"
+    let test2 = "test2"
     
     @IBOutlet weak var tabBar: UITabBarItem!
     
