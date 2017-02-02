@@ -10,6 +10,8 @@ import UIKit
 
 class TabDiscoverViewController: UIViewController, UITableViewDataSource, UITableViewDelegate {
     
+    let test = "git change test"
+    
     @IBOutlet weak var tabBar: UITabBarItem!
     
     @IBOutlet weak var headerView: UIView!
