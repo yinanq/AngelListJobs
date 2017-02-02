@@ -10,10 +10,6 @@ import UIKit
 
 class TabDiscoverViewController: UIViewController, UITableViewDataSource, UITableViewDelegate {
     
-    let test = "git change test"
-    let test2 = "test2"
-    let test3 = "testing auto push after commit checkbox"
-    
     @IBOutlet weak var tabBar: UITabBarItem!
     
     @IBOutlet weak var headerView: UIView!
