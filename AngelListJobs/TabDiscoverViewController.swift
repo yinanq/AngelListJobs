@@ -12,6 +12,7 @@ class TabDiscoverViewController: UIViewController, UITableViewDataSource, UITabl
     
     let test = "git change test"
     let test2 = "test2"
+    let test3 = "testing auto push after commit checkbox"
     
     @IBOutlet weak var tabBar: UITabBarItem!
     
