@@ -7,17 +7,51 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		08B444181E33417700BEC05B /* Startups.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08B444171E33417700BEC05B /* Startups.swift */; };
+		08B4441A1E33443300BEC05B /* TabDiscoverViewController+animateFilterOpenClose.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08B444191E33443300BEC05B /* TabDiscoverViewController+animateFilterOpenClose.swift */; };
+		08B4441C1E33489F00BEC05B /* TabDiscoverViewController+setupCATextLayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08B4441B1E33489F00BEC05B /* TabDiscoverViewController+setupCATextLayer.swift */; };
+		E140B9E81E12452500DA394B /* SF-UI-Display-Black.otf in Resources */ = {isa = PBXBuildFile; fileRef = E140B9DE1E12442600DA394B /* SF-UI-Display-Black.otf */; };
+		E140B9E91E12452500DA394B /* SF-UI-Display-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = E140B9DF1E12442600DA394B /* SF-UI-Display-Bold.otf */; };
+		E140B9EA1E12452500DA394B /* SF-UI-Display-Heavy.otf in Resources */ = {isa = PBXBuildFile; fileRef = E140B9E01E12442600DA394B /* SF-UI-Display-Heavy.otf */; };
+		E140B9EB1E12452500DA394B /* SF-UI-Display-Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = E140B9E11E12442600DA394B /* SF-UI-Display-Light.otf */; };
+		E140B9EC1E12452500DA394B /* SF-UI-Display-Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = E140B9E21E12442600DA394B /* SF-UI-Display-Medium.otf */; };
+		E140B9ED1E12452500DA394B /* SF-UI-Display-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = E140B9E31E12442600DA394B /* SF-UI-Display-Regular.otf */; };
+		E140B9EE1E12452500DA394B /* SF-UI-Display-Semibold.otf in Resources */ = {isa = PBXBuildFile; fileRef = E140B9E41E12442600DA394B /* SF-UI-Display-Semibold.otf */; };
+		E140B9EF1E12452500DA394B /* SF-UI-Display-Thin.otf in Resources */ = {isa = PBXBuildFile; fileRef = E140B9E51E12442600DA394B /* SF-UI-Display-Thin.otf */; };
+		E140B9F01E12452500DA394B /* SF-UI-Display-Ultralight.otf in Resources */ = {isa = PBXBuildFile; fileRef = E140B9E61E12442600DA394B /* SF-UI-Display-Ultralight.otf */; };
+		E140B9F21E137E9000DA394B /* TabIntrosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E140B9F11E137E9000DA394B /* TabIntrosViewController.swift */; };
+		E140B9F41E137EBE00DA394B /* TabMessagesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E140B9F31E137EBE00DA394B /* TabMessagesViewController.swift */; };
+		E140B9F61E137ECD00DA394B /* TabYouViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E140B9F51E137ECD00DA394B /* TabYouViewController.swift */; };
+		E140B9F81E19BE6E00DA394B /* StartupTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E140B9F71E19BE6E00DA394B /* StartupTableViewCell.swift */; };
+		E1BCD5D01E1203A6007B8029 /* TabDiscoverViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1BCD5CF1E1203A6007B8029 /* TabDiscoverViewController.swift */; };
+		E1C30F631E3B0C6500DAFAA7 /* Startup.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1C30F621E3B0C6500DAFAA7 /* Startup.swift */; };
 		E1E745781E10B35100E6BAC6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1E745771E10B35000E6BAC6 /* AppDelegate.swift */; };
-		E1E7457A1E10B35100E6BAC6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1E745791E10B35100E6BAC6 /* ViewController.swift */; };
 		E1E7457D1E10B35100E6BAC6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E1E7457B1E10B35100E6BAC6 /* Main.storyboard */; };
 		E1E7457F1E10B35100E6BAC6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E1E7457E1E10B35100E6BAC6 /* Assets.xcassets */; };
 		E1E745821E10B35100E6BAC6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E1E745801E10B35100E6BAC6 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		08B444171E33417700BEC05B /* Startups.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Startups.swift; sourceTree = "<group>"; };
+		08B444191E33443300BEC05B /* TabDiscoverViewController+animateFilterOpenClose.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "TabDiscoverViewController+animateFilterOpenClose.swift"; sourceTree = "<group>"; };
+		08B4441B1E33489F00BEC05B /* TabDiscoverViewController+setupCATextLayer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "TabDiscoverViewController+setupCATextLayer.swift"; sourceTree = "<group>"; };
+		E140B9DE1E12442600DA394B /* SF-UI-Display-Black.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SF-UI-Display-Black.otf"; sourceTree = "<group>"; };
+		E140B9DF1E12442600DA394B /* SF-UI-Display-Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SF-UI-Display-Bold.otf"; sourceTree = "<group>"; };
+		E140B9E01E12442600DA394B /* SF-UI-Display-Heavy.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SF-UI-Display-Heavy.otf"; sourceTree = "<group>"; };
+		E140B9E11E12442600DA394B /* SF-UI-Display-Light.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SF-UI-Display-Light.otf"; sourceTree = "<group>"; };
+		E140B9E21E12442600DA394B /* SF-UI-Display-Medium.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SF-UI-Display-Medium.otf"; sourceTree = "<group>"; };
+		E140B9E31E12442600DA394B /* SF-UI-Display-Regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SF-UI-Display-Regular.otf"; sourceTree = "<group>"; };
+		E140B9E41E12442600DA394B /* SF-UI-Display-Semibold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SF-UI-Display-Semibold.otf"; sourceTree = "<group>"; };
+		E140B9E51E12442600DA394B /* SF-UI-Display-Thin.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SF-UI-Display-Thin.otf"; sourceTree = "<group>"; };
+		E140B9E61E12442600DA394B /* SF-UI-Display-Ultralight.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SF-UI-Display-Ultralight.otf"; sourceTree = "<group>"; };
+		E140B9F11E137E9000DA394B /* TabIntrosViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TabIntrosViewController.swift; sourceTree = "<group>"; };
+		E140B9F31E137EBE00DA394B /* TabMessagesViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TabMessagesViewController.swift; sourceTree = "<group>"; };
+		E140B9F51E137ECD00DA394B /* TabYouViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TabYouViewController.swift; sourceTree = "<group>"; };
+		E140B9F71E19BE6E00DA394B /* StartupTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StartupTableViewCell.swift; sourceTree = "<group>"; };
+		E1BCD5CF1E1203A6007B8029 /* TabDiscoverViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TabDiscoverViewController.swift; sourceTree = "<group>"; };
+		E1C30F621E3B0C6500DAFAA7 /* Startup.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Startup.swift; sourceTree = "<group>"; };
 		E1E745741E10B35000E6BAC6 /* AngelListJobs.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AngelListJobs.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E1E745771E10B35000E6BAC6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		E1E745791E10B35100E6BAC6 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		E1E7457C1E10B35100E6BAC6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		E1E7457E1E10B35100E6BAC6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E1E745811E10B35100E6BAC6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -35,6 +69,35 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		084A84831E333DE600424DEB /* ViewControllers */ = {
+			isa = PBXGroup;
+			children = (
+				E1BCD5CF1E1203A6007B8029 /* TabDiscoverViewController.swift */,
+				08B4441B1E33489F00BEC05B /* TabDiscoverViewController+setupCATextLayer.swift */,
+				08B444191E33443300BEC05B /* TabDiscoverViewController+animateFilterOpenClose.swift */,
+				E140B9F11E137E9000DA394B /* TabIntrosViewController.swift */,
+				E140B9F31E137EBE00DA394B /* TabMessagesViewController.swift */,
+				E140B9F51E137ECD00DA394B /* TabYouViewController.swift */,
+			);
+			name = ViewControllers;
+			sourceTree = "<group>";
+		};
+		E140B9E71E12443300DA394B /* fonts */ = {
+			isa = PBXGroup;
+			children = (
+				E140B9DE1E12442600DA394B /* SF-UI-Display-Black.otf */,
+				E140B9DF1E12442600DA394B /* SF-UI-Display-Bold.otf */,
+				E140B9E01E12442600DA394B /* SF-UI-Display-Heavy.otf */,
+				E140B9E11E12442600DA394B /* SF-UI-Display-Light.otf */,
+				E140B9E21E12442600DA394B /* SF-UI-Display-Medium.otf */,
+				E140B9E31E12442600DA394B /* SF-UI-Display-Regular.otf */,
+				E140B9E41E12442600DA394B /* SF-UI-Display-Semibold.otf */,
+				E140B9E51E12442600DA394B /* SF-UI-Display-Thin.otf */,
+				E140B9E61E12442600DA394B /* SF-UI-Display-Ultralight.otf */,
+			);
+			name = fonts;
+			sourceTree = "<group>";
+		};
 		E1E7456B1E10B35000E6BAC6 = {
 			isa = PBXGroup;
 			children = (
@@ -54,11 +117,15 @@
 		E1E745761E10B35000E6BAC6 /* AngelListJobs */ = {
 			isa = PBXGroup;
 			children = (
-				E1E745771E10B35000E6BAC6 /* AppDelegate.swift */,
-				E1E745791E10B35100E6BAC6 /* ViewController.swift */,
-				E1E7457B1E10B35100E6BAC6 /* Main.storyboard */,
-				E1E7457E1E10B35100E6BAC6 /* Assets.xcassets */,
 				E1E745801E10B35100E6BAC6 /* LaunchScreen.storyboard */,
+				E1E7457B1E10B35100E6BAC6 /* Main.storyboard */,
+				E1E745771E10B35000E6BAC6 /* AppDelegate.swift */,
+				084A84831E333DE600424DEB /* ViewControllers */,
+				E140B9F71E19BE6E00DA394B /* StartupTableViewCell.swift */,
+				E1C30F621E3B0C6500DAFAA7 /* Startup.swift */,
+				08B444171E33417700BEC05B /* Startups.swift */,
+				E1E7457E1E10B35100E6BAC6 /* Assets.xcassets */,
+				E140B9E71E12443300DA394B /* fonts */,
 				E1E745831E10B35100E6BAC6 /* Info.plist */,
 			);
 			path = AngelListJobs;
@@ -96,7 +163,7 @@
 				TargetAttributes = {
 					E1E745731E10B35000E6BAC6 = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = ER5DW7LZQ6;
+						DevelopmentTeam = V3K4TCDG5G;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -124,6 +191,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E140B9E81E12452500DA394B /* SF-UI-Display-Black.otf in Resources */,
+				E140B9E91E12452500DA394B /* SF-UI-Display-Bold.otf in Resources */,
+				E140B9EA1E12452500DA394B /* SF-UI-Display-Heavy.otf in Resources */,
+				E140B9EB1E12452500DA394B /* SF-UI-Display-Light.otf in Resources */,
+				E140B9EC1E12452500DA394B /* SF-UI-Display-Medium.otf in Resources */,
+				E140B9ED1E12452500DA394B /* SF-UI-Display-Regular.otf in Resources */,
+				E140B9EE1E12452500DA394B /* SF-UI-Display-Semibold.otf in Resources */,
+				E140B9EF1E12452500DA394B /* SF-UI-Display-Thin.otf in Resources */,
+				E140B9F01E12452500DA394B /* SF-UI-Display-Ultralight.otf in Resources */,
 				E1E745821E10B35100E6BAC6 /* LaunchScreen.storyboard in Resources */,
 				E1E7457F1E10B35100E6BAC6 /* Assets.xcassets in Resources */,
 				E1E7457D1E10B35100E6BAC6 /* Main.storyboard in Resources */,
@@ -137,8 +213,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E1E7457A1E10B35100E6BAC6 /* ViewController.swift in Sources */,
+				08B4441C1E33489F00BEC05B /* TabDiscoverViewController+setupCATextLayer.swift in Sources */,
+				E1C30F631E3B0C6500DAFAA7 /* Startup.swift in Sources */,
+				08B4441A1E33443300BEC05B /* TabDiscoverViewController+animateFilterOpenClose.swift in Sources */,
+				E140B9F61E137ECD00DA394B /* TabYouViewController.swift in Sources */,
+				E140B9F41E137EBE00DA394B /* TabMessagesViewController.swift in Sources */,
+				E1BCD5D01E1203A6007B8029 /* TabDiscoverViewController.swift in Sources */,
+				E140B9F81E19BE6E00DA394B /* StartupTableViewCell.swift in Sources */,
+				E140B9F21E137E9000DA394B /* TabIntrosViewController.swift in Sources */,
 				E1E745781E10B35100E6BAC6 /* AppDelegate.swift in Sources */,
+				08B444181E33417700BEC05B /* Startups.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -259,10 +343,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = ER5DW7LZQ6;
+				DEVELOPMENT_TEAM = V3K4TCDG5G;
 				INFOPLIST_FILE = AngelListJobs/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.YinanQiu.AngelListJobs;
+				PRODUCT_BUNDLE_IDENTIFIER = design.yinan.angellistjobs;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -272,10 +356,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = ER5DW7LZQ6;
+				DEVELOPMENT_TEAM = V3K4TCDG5G;
 				INFOPLIST_FILE = AngelListJobs/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.YinanQiu.AngelListJobs;
+				PRODUCT_BUNDLE_IDENTIFIER = design.yinan.angellistjobs;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -300,6 +384,7 @@
 				E1E745881E10B35100E6BAC6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

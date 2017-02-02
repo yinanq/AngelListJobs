@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  AngelListJobs
 //
-//  Created by Yinan iMac on 12/25/16.
+//  Created by Yinan Qiu on 12/25/16.
 //  Copyright © 2016 YinanQiu. All rights reserved.
 //
 
@@ -16,6 +16,10 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
+        
+        UITabBar.appearance().backgroundColor = UIColor.white
+        UITabBar.appearance().tintColor = UIColor.black
+        
         return true
     }
 
